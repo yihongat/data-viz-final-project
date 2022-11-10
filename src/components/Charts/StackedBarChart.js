@@ -1,5 +1,7 @@
 import * as d3 from "d3";
 
+// Code adapted from https://observablehq.com/@d3/stacked-bar-chart
+
 function StackedBarChart(
   data,
   {
